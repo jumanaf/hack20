@@ -1,0 +1,1842 @@
+{
+  "value": [
+    {
+      "name": "Black Lives Matter marcher hit man during argument at Seaside Heights boardwalk, police say",
+      "url": "https://www.nj.com/crime/2020/08/black-lives-matter-marcher-hit-man-during-argument-at-seaside-heights-boardwalk-police-say.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.D91EED4A8BCE1905D3A9B07194812170&pid=News",
+          "width": 700,
+          "height": 700
+        }
+      },
+      "description": "A Black Lives Matter marcher was arrested Saturday afternoon at the Seaside Heights boardwalk after he got into an argument with a man and hit him in the face, police said. The incident happened during an event called March At The Boards that was described as a “Black Lives Matter protest against police brutality and racial discrimination,",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "NJ.com",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_bf5907d755c5678d49c0d9ecf76df49e&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-16T04:19:00.0000000Z",
+      "category": "US"
+    },
+    {
+      "name": "Black Lives Matter Protest over face mask incident at York Catholic High School",
+      "url": "https://news.yahoo.com/black-lives-matter-protest-over-023150904.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.6565E85DA12356F94EE059F91F78DCBA&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Black Lives Matter Protest over face mask incident at York Catholic High School graduation.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO!",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_e1eef5681737e5676d7a09990b13411a&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-16T03:57:00.0000000Z",
+      "video": {
+        "name": "Black Lives Matter Protest over face mask incident at York Catholic High School",
+        "thumbnailUrl": "https://www.bing.com/th?id=ON.C994A567CBE936B3E9AD18735D33A944&pid=News",
+        "thumbnail": {
+          "width": 480,
+          "height": 270
+        }
+      }
+    },
+    {
+      "name": "VICTOR JOECKS: The many, contradictory meanings of ‘Black Lives Matter’",
+      "url": "https://www.reviewjournal.com/opinion/opinion-columns/victor-joecks/victor-joecks-the-many-contradictory-meanings-of-black-lives-matter-2095737/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.24111569469870F7F699DA2288CDF244&pid=News",
+          "width": 700,
+          "height": 464
+        }
+      },
+      "description": "You can’t have a fruitful discussion when terms mean different things to different people. Consider the controversy surrounding “Black Lives Matter.”",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Las Vegas Review-Journal",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_09fae5f2166574c17b4436f8e2c5e7a7&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-16T04:03:00.0000000Z"
+    },
+    {
+      "name": "Black Lives Matter Activist Hunted by NYPD Facial Recognition Technology",
+      "url": "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.63C4B0B3CF26612B655AE5539FC75560&pid=News",
+          "width": 700,
+          "height": 466
+        }
+      },
+      "description": "\"We're being specifically targeted with this technology because of what we're protesting,\" Derrick Ingram said.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Newsweek",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_5b25f28f2c7ef602447f087e69de137e&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T14:57:00.0000000Z",
+      "video": {
+        "name": "History Of The Black Lives Matter Movement",
+        "thumbnailUrl": "https://www.bing.com/th?id=ON.E75401925EAB73872CE244C8698644CC&pid=News",
+        "thumbnail": {
+          "width": 400,
+          "height": 225
+        }
+      }
+    },
+    {
+      "name": "Police arrest ‘one of the primary aggressors’ in Nevada City Black Lives Matter protest",
+      "url": "https://www.sacbee.com/news/local/crime/article244978910.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.EAC9AD2DDA3EAA583CFAF9D2F061A9A0&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Police officials said they had arrested “one of the primary aggressors” who violently confronted peaceful demonstrators in a protest in Nevada City last weekend to support the Black Lives Matter movement.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Sacramento Bee",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_55d8e18f3d28cc0aff3c75f7c4546c15&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T19:43:00.0000000Z",
+      "category": "US"
+    },
+    {
+      "name": "Right-wing groups clash with Black Lives Matter protesters in US",
+      "url": "https://www.sbs.com.au/news/right-wing-groups-clash-with-black-lives-matter-protesters-in-us",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.5AEDB18033D81B4D501D077473B10087&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Right-wing groups have battled anti-fascists and Black Lives Matter activists in US states, with police breaking up scuffles and making arrests.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "SBS",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_27dfc49c7865837b966a8bc1d8f328be&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-16T11:44:00.0000000Z",
+      "category": "World"
+    },
+    {
+      "name": "Doctors Wear Black Scrubs To Honor Black Lives Matter Movement",
+      "url": "https://news.yahoo.com/doctors-wear-black-scrubs-honor-034411782.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.31532E099B4C8B756B0CBA5A1C593C98&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Hospital scrubs are getting a makeover at one medical center in Alabama. Two doctors are changing the dress code in light of the pandemic and protests for racial justice; Jessi Mitchell reports for CBS2.",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/718ff8ac-57a9-eecb-9735-7318d037c686",
+          "name": "Doctors"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/fc117bbd-5d24-29ab-8aac-8b438bdf5dba",
+          "name": "Scrubs"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO!",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_e1eef5681737e5676d7a09990b13411a&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-16T04:06:00.0000000Z",
+      "video": {
+        "name": "Doctors Wear Black Scrubs To Honor Black Lives Matter Movement",
+        "thumbnailUrl": "https://www.bing.com/th?id=ON.86BEC3736B7031D9EAEE18543EB0FEED&pid=News",
+        "thumbnail": {
+          "width": 480,
+          "height": 270
+        }
+      }
+    },
+    {
+      "name": "After a White man repeatedly erased girl's 'Black Lives Matter' chalk drawing in front of her home, neighbors stepped in to show support",
+      "url": "https://www.kmov.com/after-a-white-man-repeatedly-erased-girls-black-lives-matter-chalk-drawing-in-front-of/article_eddfa7a2-0fdd-5a77-ac01-ae59ba2831e1.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.9438A7B6772F6B14807F690CBE4CF852&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Every day for nearly a week, Manette Sharick and her 3-year-old daughter, Zhuri, drew \"Black Lives Matter\" in chalk across the sidewalk outside their home in Concord, California.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "KMOV",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_ea2d33071a1a8f931dff57869182962a&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-16T11:32:00.0000000Z"
+    },
+    {
+      "name": "Back the Blue rally in support of Manchester police sparks loud, but peaceful Black Lives Matter protest",
+      "url": "https://www.courant.com/news/connecticut/hc-news-manchester-police-rally-blm-protest-20200815-svdf37mswvdzhccieh2cu2css4-story.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.8610CAD6991A81CA8EA58441F93AF0E7&pid=News",
+          "width": 700,
+          "height": 466
+        }
+      },
+      "description": "A rally supporting Manchester police Saturday drew a Black Lives Matter counterprotest that ramped up with verbal intensity as both sides walked to the steps of the police department.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Hartford Courant",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_06206137acac347c5a55626f1ac4c1ca&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T21:05:00.0000000Z",
+      "category": "US"
+    },
+    {
+      "name": "Big Brother: Julie Chen Moonves Sheds Light on Sign-Off: 'Black Lives Matter and Now Is the Time to Speak Up'",
+      "url": "https://www.yahoo.com/entertainment/big-brother-julie-chen-moonves-140653373.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.00F108CB985E7BF14BA9A4728F5810D3&pid=News",
+          "width": 620,
+          "height": 421
+        }
+      },
+      "description": "Veritably answering two of TVLine's recent TV Questions, Julie Chen Moonves has shed light on the intent of her feel-good Big Brother All-Stars sign-off messages. Whereas the host traditionally ends her on-camera appearance by saying,",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO!",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_e1eef5681737e5676d7a09990b13411a&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T14:16:00.0000000Z",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Black Lives Matter rally held on Dartmouth waterfront",
+      "url": "https://www.msn.com/en-ca/news/canada/black-lives-matter-rally-held-on-dartmouth-waterfront/ar-BB181fOv?li=AAggNb9",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.E9D8685BACD510495B2ADF2DB9A8217E&pid=News",
+          "width": 600,
+          "height": 315
+        }
+      },
+      "description": "Dozens of young people gathered on the Dartmouth Waterfront outside Alderney Landing on Saturday for a Black Lives Matter rally. Jessica Bowden, founder of Teens Now Talk magazine, was one of the organizers for the event.",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/3cc76214-8ab1-3ec6-9734-1515efa95cd4",
+          "name": "Black"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/9455118a-bdcd-7aa9-d093-6dda2d67e634",
+          "name": "Dartmouth College"
+        }
+      ],
+      "mentions": [
+        {
+          "name": "Black"
+        },
+        {
+          "name": "Dartmouth College"
+        },
+        {
+          "name": "Black"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "cbc.ca on MSN.com",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_d51796a7ee8ba0489ac0d92f2feae54d&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-16T09:30:55.0000000Z"
+    },
+    {
+      "name": "Seaside Heights Black Lives Matter protester arrested after allegedly hitting man, says it was self-defense",
+      "url": "https://www.app.com/story/news/local/toms-river-area/seaside-heights/2020/08/15/seaside-heights-black-lives-matter-protest-turns-violent/5593595002/",
+      "description": "Jamaal Holmes, 28, of Toms River, was taken into custody, after police said he struck a 68-year-old man in the face during an argument.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "app.com",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_fc3dd3ea1cd29ea88b138519e8d5722d&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-16T09:41:00.0000000Z",
+      "category": "US"
+    },
+    {
+      "name": "Dolly Parton: 'Of course Black lives matter'",
+      "url": "https://www.msn.com/en-us/news/us/dolly-parton-of-course-black-lives-matter/ar-BB17Xcr9",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.0A8D51EA0E00F50638263ED24BB5833C&pid=News",
+          "width": 600,
+          "height": 315
+        }
+      },
+      "description": "Dolly Parton's making it clear that she supports the protests against racial injustice. \"Do we think our little White a**es are the only ones that matter? No!\" she says.",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/8074d923-6fff-5c95-7c3f-9519a52c7a3d",
+          "name": "Dolly Parton"
+        }
+      ],
+      "mentions": [
+        {
+          "name": "Dolly Parton"
+        },
+        {
+          "name": "Black"
+        },
+        {
+          "name": "United States"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "CNN on MSN.com",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_34c0b98797bce395c518158cf055747c&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-14T20:21:34.0000000Z"
+    },
+    {
+      "name": "Update: WCSD sends statement on Black Lives Matter",
+      "url": "https://www.rgj.com/story/news/2020/08/14/nevada-washoe-county-wcsd-tells-teachers-not-support-black-lives-matters-school/3367070001/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.EEF5CB1F789E569326A049A454551FE0&pid=News",
+          "width": 700,
+          "height": 392
+        }
+      },
+      "description": "WCSD training for teachers includes a reminder not to support Black Lives Matter during the school day because it is a political statement.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Reno Gazette-Journal",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_b1dd57c55f78d4ec7890778dc8bb57b9&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T20:23:00.0000000Z",
+      "video": {
+        "name": "Pro-police demonstrators surround BLM protesters",
+        "motionThumbnailUrl": "https://wus-streaming-video-msn-com.akamaized.net/e3d4e4bd-1c66-458e-bc5f-aeb69947f86d/d06e0306-5306-4621-a0ad-9f2ef50e_650.mp4",
+        "thumbnail": {
+          "width": 640,
+          "height": 360
+        }
+      },
+      "category": "Politics"
+    },
+    {
+      "name": "Black Lives Matter groups are multiplying — and competing for donations",
+      "url": "https://nypost.com/2020/08/15/blm-groups-are-multiplying-and-competing-for-donations/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.DDA27EBEB4CE1D8D804F5183D3A5B46A&pid=News",
+          "width": 700,
+          "height": 466
+        }
+      },
+      "description": "The Black Lives Matter movement has sparked an outpouring of more than $1 billion in corporate giving — and launched a wild scramble for the cash among a dozen BLM groups scattered across the",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "New York Post",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_0d31eadcf209bc045d8f584e6134bed0&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T12:03:00.0000000Z"
+    },
+    {
+      "name": "Listen: From civil rights to Black Lives Matter, opinions vary on importance of voting among Texans across generations",
+      "url": "https://www.texastribune.org/2020/08/15/opinions-vary-importance-voting/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.D9FFB2624F2CCB90198A11D22A9FCD4B&pid=News",
+          "width": 700,
+          "height": 469
+        }
+      },
+      "description": "Hear Texas advocates describe their takes on the practice of voting and its importance to themselves and their generation.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Texas Tribune",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_558a4f4a79ac782664a356e1dce91f61&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T09:07:00.0000000Z"
+    },
+    {
+      "name": "Trump supporters clash with Black Lives Matter demonstrators in Tujunga",
+      "url": "https://www.dailynews.com/2020/08/14/trump-supporters-clash-with-black-lives-matter-demonstrators-in-tujunga/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.7A0F9BAE2DF7F71F509A2C342771ED93&pid=News",
+          "width": 700,
+          "height": 470
+        }
+      },
+      "description": "A verbal confrontation between Black Lives Matter demonstrators and supporters of President Donald Trump turned into a series of physical altercations Friday, Aug.14, leaving at least four people in need of medical attention outside an In-n-Out drive-thru in Tujunga.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Los Angeles Daily News",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_4af58c8172e82824c157659f612df222&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T09:33:00.0000000Z",
+      "category": "US"
+    },
+    {
+      "name": "Dolly Parton Speaks Out in Support of Black Lives Matter in New Interview",
+      "url": "https://finance.yahoo.com/news/dolly-parton-speaks-support-black-141700872.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.07F59D3A18718335F462F992C44CA35F&pid=News",
+          "width": 700,
+          "height": 350
+        }
+      },
+      "description": "Dolly Parton is known not only for her music but also for speaking up for her beliefs. Most recently, the “Jolene” singer shared her views on the Black Lives Matter movement. Dolly Parton has always been a source of optimism in this world.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO!",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_e1eef5681737e5676d7a09990b13411a&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T14:34:00.0000000Z"
+    },
+    {
+      "name": "Seaside Black Lives Matter Marcher Hit Man In Argument: Police",
+      "url": "https://patch.com/new-jersey/tomsriver/seaside-black-lives-matter-marcher-hit-man-argument-police",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.8BA646BEBCDA4B0A520E9576287EE540&pid=News",
+          "width": 700,
+          "height": 525
+        }
+      },
+      "description": "The organizer of a Black Lives Matter march in Seaside Heights was arrested Saturday after he hit another man during an argument at the march, police said Saturday night. Jamaal Holmes, 28, the organizer of the March on the Boards,",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Patch",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_ae021ec13654cbbb74369c2fe4b2c489&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-16T05:53:00.0000000Z",
+      "category": "US"
+    },
+    {
+      "name": "Dolly Parton addresses Black Lives Matter movement: 'Of course Black lives matter'",
+      "url": "https://www.foxnews.com/entertainment/dolly-parton-blm-movement-of-course-black-lives-matter",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.6B1CCB7E151E74E8035887AE9E3E9F09&pid=News",
+          "width": 640,
+          "height": 320
+        }
+      },
+      "description": "The legendary country star recently spoke to Billboard about the racial tension in the United States and around the world, and voiced support for the Black Lives Matter movement.",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/8074d923-6fff-5c95-7c3f-9519a52c7a3d",
+          "name": "Dolly Parton"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/273e0477-30ed-3993-f232-f39244306805",
+          "name": "Fox News Channel"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Fox News",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_7dc0f55e947bdbc51189eb1a022e9eb6&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-14T01:16:00.0000000Z"
+    },
+    {
+      "name": "Dolly Parton makes her feelings known on Black Lives Matter",
+      "url": "https://wsvn.com/entertainment/dolly-parton-makes-her-feelings-known-on-black-lives-matter/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.F744F8D9DB0E6C2AF84F58D9F0F9F920&pid=News",
+          "width": 700,
+          "height": 474
+        }
+      },
+      "description": "Country singer Dolly Parton is making it clear that she supports Black Lives Matter. In a wide ranging interview with Billboard magazine, the singer",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "7News Miami",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_bb15fa782a4e06cd54fba909012da328&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T15:33:00.0000000Z"
+    },
+    {
+      "name": "Nashville man starts petition for Black Lives Matter mural in front of the state capitol",
+      "url": "https://www.wkrn.com/news/nashville-protests/nashville-man-starts-petition-for-black-lives-matter-mural-in-front-of-state-capitol/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.86AF29EB9BB42DC217F548FB5242ACF6&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "A Nashville man has started a petition in hopes of painting the street in front of Tennessee State Capitol with a Black Lives Matter mural.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "WKRN",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_26bc54ed1ebeea629e03674dbba33209&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T03:51:00.0000000Z",
+      "category": "Politics"
+    },
+    {
+      "name": "They made posters to support the Black Lives Matter movement. Hours later, the project was defaced with racist messages.",
+      "url": "https://paloaltoonline.com/news/2020/08/14/they-made-posters-to-support-the-black-lives-matter-movement-hours-later-the-project-was-defaced-with-racist-messages",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.9A74F50CBD8B1C29DF4BDE179A447063&pid=News",
+          "width": 700,
+          "height": 464
+        }
+      },
+      "description": "Palo Alto Youth Art Protest's anti-racism posters were defaced on Aug. 8 by a man seen on video spray-painting the messages with offensive rhetoric that led to a citation from the Police Department.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Palo Alto Weekly",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_3f200c1338968edc6bfd9f1d31dcf5e2&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T16:35:00.0000000Z"
+    },
+    {
+      "name": "Dolly Parton voices support, says Black lives matter",
+      "url": "https://www.ajc.com/news/nation-world/dolly-parton-voices-support-says-black-lives-matter/C6XT2NZVZVB7LPB7OIY7WFJ4QI/",
+      "description": "Dolly Parton isn’t parsing words when it comes to her feelings about the lives of Black people. In an in-depth interview with Billboard, the country music singer discussed her career, which includes her amusement park and family entertainment empire Dollywood.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Atlanta Journal-Constitution",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_f6e35b204d2a392b6d80800ce26d47fe&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T21:17:00.0000000Z"
+    },
+    {
+      "name": "Documents Reveal That Federal Agency Monitored Black Lives Matter Demonstrations but Ignored White Supremacist Involvement in Violent Protests",
+      "url": "https://www.theroot.com/documents-reveal-that-federal-agency-monitored-black-li-1844737453",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.AE716D546F0631A8F8E865F71126DECC&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "America knows it has a homegrown terrorist problem, it just isn’t ready to deal with the reality that the face of American terrorism is...well...a hueless face. White people have no problem accepting the fact that not all terrorists come from the land of scary Muslims and that some come from right here in the U.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Root",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_f4932f876208bf9be71ca22ea0361fb0&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T19:07:00.0000000Z"
+    },
+    {
+      "name": "Protest held at school over incident about graduate's Black Lives Matter face mask",
+      "url": "https://www.wgal.com/article/protest-held-at-school-over-incident-about-graduates-black-lives-matter-face-mask/33613854",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.DEB5A7D44E36551B411EE82410BED140&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Nearly a hundred protesters marched near York Catholic High School on Saturday in response to the school's decision to tell a graduate to remove his face mask, reading \"Black Lives Matter,\" during the recent graduation ceremony.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "WGAL"
+        }
+      ],
+      "datePublished": "2020-08-16T07:43:00.0000000Z"
+    },
+    {
+      "name": "Black Lives Matter, pro-police demonstrators speak out in Bainbridge",
+      "url": "https://wbng.com/2020/08/15/black-lives-matter-pro-police-demonstrators-speak-out-in-bainbridge/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.9D89DABBD17EC7BBA609A258788AC815&pid=News",
+          "width": 640,
+          "height": 360
+        }
+      },
+      "description": "While Black Lives Matter protesters and pro-police demonstrators collided, for some, there was call for understanding.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "WBNG 12 News"
+        }
+      ],
+      "datePublished": "2020-08-15T23:32:00.0000000Z",
+      "video": {
+        "name": "Black Lives Matter, pro-police demonstrators speak out in Bainbridge",
+        "thumbnailUrl": "https://www.bing.com/th?id=ON.9D89DABBD17EC7BBA609A258788AC815&pid=News",
+        "thumbnail": {
+          "width": 480,
+          "height": 270
+        }
+      }
+    },
+    {
+      "name": "Back the Blue supporters met with Black Lives Matter protesters in Potsdam",
+      "url": "https://www.wwnytv.com/2020/08/15/back-blue-supporters-met-with-black-lives-matter-protesters-potsdam/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.6FC047660AC2C9AB0A80A2F2092C892F&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Both events were peaceful, but this is an issue that quickly gets political, and it did at that park where Black lives Matter protesters came face-to-face with a Back the Blue sup",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/2b3fa8aa-40df-4c4e-a025-d2f82d796d35",
+          "name": "Potsdam"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/f46e3c58-115f-189c-c3d0-54aabe6a93b9",
+          "name": "Supporter"
+        }
+      ],
+      "mentions": [
+        {
+          "name": "Potsdam"
+        },
+        {
+          "name": "Supporter"
+        },
+        {
+          "name": "Blue"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "WWNY-TV"
+        }
+      ],
+      "datePublished": "2020-08-16T00:53:00.0000000Z",
+      "video": {
+        "name": "Back the Blue supporters met with Black Lives Matter protesters in Potsdam",
+        "thumbnailUrl": "https://www.bing.com/th?id=ON.6FC047660AC2C9AB0A80A2F2092C892F&pid=News",
+        "thumbnail": {
+          "width": 480,
+          "height": 270
+        }
+      }
+    },
+    {
+      "name": "Personal Expressions Of Solidarity With Black Lives Matter Keep Popping Up Around Kansas City",
+      "url": "https://www.kcur.org/arts-life/2020-08-16/personal-expressions-of-solidarity-with-black-lives-matter-keep-popping-up-around-kansas-city",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.DF12F0C322200DD4A234E50F67AA340A&pid=News",
+          "width": 700,
+          "height": 367
+        }
+      },
+      "description": "From apartment windows to suburban lawns — and even industrial grain silos — we've been documenting the burst of spontaneous signage for Black Lives Matter in Kansas City.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "KCUR 89.3 FM",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_727bc5cac566316d936c4a58b6b98c83&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-16T10:00:00.0000000Z"
+    },
+    {
+      "name": "Here’s what happened when Black Lives Matter challenged Back the Blue",
+      "url": "https://www.cantonrep.com/news/20200815/herersquos-what-happened-when-black-lives-matter-challenged-back-blue",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.7E6EF0F98B467230F5AB7CDBF152B58C&pid=News",
+          "width": 700,
+          "height": 365
+        }
+      },
+      "description": "NORTH CANTON It was finally time for those people to meet those people.In the social media world, they’re often at odds. So, when a local Black",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Repository",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_554a50239a1218234478c28f633325b1&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-16T05:05:00.0000000Z"
+    },
+    {
+      "name": "Man arrested by plainclothes officers in unmarked car during Black Lives Matter protest",
+      "url": "https://www.wtae.com/article/man-arrested-by-plainclothes-officers-in-unmarked-car-during-black-lives-matter-protest/33613776",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.F8EB1CE0AD0AB6B58E4762B18882CA54&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "A Black Lives Matter protester was arrested this evening by plainclothes police officers and taken away in unmarked vehicles Saturday afternoon.According to court papers filed late Saturday, the protester was Matthew Cartier,",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "WTAE-TV",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_a63316703c2bbbe37373faace8ec79ac&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-16T08:46:00.0000000Z"
+    },
+    {
+      "name": "Black Lives Matter marchers take stand against York Catholic policies",
+      "url": "https://www.yorkdispatch.com/story/news/local/2020/08/15/marchers-take-stand-against-york-catholic-policies/5591258002/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.A12B22BDEAE32DD27253F70482D5F1EE&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Nearly 100 people turned out Saturday in support of a recent York Catholic High School graduate who was asked to remove his Black Lives Matter mask prior to his graduation ceremony last month.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The York Dispatch",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_94e4a3c35151ba908162ef232553c7f8&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T20:30:00.0000000Z",
+      "video": {
+        "name": "Black Lives Matter marchers take stand against York Catholic policies",
+        "thumbnailUrl": "https://www.bing.com/th?id=ON.A12B22BDEAE32DD27253F70482D5F1EE&pid=News",
+        "thumbnail": {
+          "width": 480,
+          "height": 270
+        }
+      }
+    },
+    {
+      "name": "Black Lives Matter, other activists, respond to beating of Jae Passmore with Rally in Tampa park",
+      "url": "https://www.wmnf.org/black-lives-matter-other-activists-respond-to-beating-of-jae-passmore-with-rally-in-tampa-park/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.8ECD6519B5630221BAF388ABA0477283&pid=News",
+          "width": 700,
+          "height": 431
+        }
+      },
+      "description": "Dozens of activists gathered in Tampa’s Lykes Gaslight Park Friday morning in response to the arrest and beating of prominent Black Lives Matter activist Jae Passmore. The smell of burning sage mixed with palpable frustration as Passmore led chants calling for the ousting of Tampa Police Chief Brian Dugan and Tampa Mayor Jane Castor,",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "WMNF",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_1a4f4276944826939d23cf890a2242bb&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T17:08:00.0000000Z"
+    },
+    {
+      "name": "British Far-Right Is More Openly Racist After Black Lives Matter Protests, Report Finds",
+      "url": "https://www.unilad.co.uk/news/british-far-right-is-more-openly-racist-after-black-lives-matter-protests-report-finds/",
+      "description": "A worrying new report from Hope Not Hate has found that the British far right is becoming more openly racist following the recent Black Lives Matter protests. For many years, the far-right has been focused on Islamophobic views espoused by leaders such as Tommy Robinson.",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/b1a5155a-6bb2-4646-8f7c-3e6b3a53c831",
+          "name": "United Kingdom"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/eb9d24f7-9d35-b512-05d8-f102312f3128",
+          "name": "Report"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/23e9096c-b560-ce3f-c9e1-846b117f0c87",
+          "name": "Protest"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "UNILAD",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_1ebe6bb080b1a418548383a98df4eaf5&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-16T11:21:00.0000000Z",
+      "category": "World"
+    },
+    {
+      "name": "Did Black Lives Matter To the British Empire in World War II?, By David Rae, Ed Keazor & Ngozi Eneh Ojo.",
+      "url": "https://opinion.premiumtimesng.com/2020/08/15/did-black-lives-matter-to-the-british-empire-in-world-war-ii-by-david-rae-ed-keazor-ngozi-eneh-ojo/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.79A36861C70AB2E56D90D5854593752A&pid=News",
+          "width": 449,
+          "height": 480
+        }
+      },
+      "description": "Will this recognise the service in World War II of combatants worldwide, including one million Africans? Did their Black Lives Matter to the British Empire, or did they fight in another man’s war? This matters because Britain still remembers the myth of a Whites-only victory,",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Premium Times"
+        }
+      ],
+      "datePublished": "2020-08-15T14:58:00.0000000Z",
+      "category": "World"
+    },
+    {
+      "name": "Groups rally to support police, Black Lives Matter in Manchester",
+      "url": "https://www.journalinquirer.com/towns/manchester/groups-rally-to-support-police-black-lives-matter-in-manchester/article_64ff5a14-df20-11ea-9ad3-b3a89db07f70.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.FE1247B9D299DFBFE983D7B231392EB9&pid=News",
+          "width": 700,
+          "height": 521
+        }
+      },
+      "description": "Despite their close proximity and obvious disagreements, two separate rallies Saturday morning kept the peace while supporting their respective groups: Black Lives Matter and the Manchester Police Department.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Journal Inquirer",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_3e576026138086d5cb1956764dd0f563&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T17:54:00.0000000Z",
+      "category": "US"
+    },
+    {
+      "name": "Dueling rallies for Black Lives Matter, \"Back the Blue\" held in Potsdam",
+      "url": "https://www.northcountrypublicradio.org/news/story/42131/20200815/dueling-rallies-for-black-lives-matter-back-the-blue-held-in-potsdam",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.621CEF1231667F0DAFE684E8A65C6474&pid=News",
+          "width": 700,
+          "height": 525
+        }
+      },
+      "description": "Potsdam hosted dueling rallies just blocks from each other on Saturday — a “Back the Blue” parade to celebrate police and first responders, and a Black Lives Matter march to draw attention to police violence and systemic racism.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Northcountrypublicradio.org",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_9a98729e6821293169ba462c7e8624ea&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T22:00:00.0000000Z"
+    },
+    {
+      "name": "Two groups face off in Goshen over face masks and Black Lives Matter",
+      "url": "https://www.southbendtribune.com/news/local/two-groups-face-off-in-goshen-over-face-masks-and-black-lives-matter/article_9e8853ea-df51-11ea-a3c5-4b15b00c36ad.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.B879CFF3C71CAC98B1E21B96F2FE54CB&pid=News",
+          "width": 700,
+          "height": 525
+        }
+      },
+      "description": "GOSHEN — A protest and counter-protest played out over face masks and the Black Lives Matter movement Saturday afternoon outside. On one side of Lincoln Avenue, just west of the Elkhart County Courthouse,",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "South Bend Tribune",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_49a65b0813e1a2fc36c6ae56c5fbf534&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-16T00:44:00.0000000Z"
+    },
+    {
+      "name": "Dolly Parton voices support for Black Lives Matter movement",
+      "url": "https://www.tristatehomepage.com/news/dolly-parton-voices-support-for-black-lives-matter-movement/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.4C24223E8CD9CDD4408273F778419BED&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Country music superstar Dolly Parton said in a recent interview with Billboard Magazine that she supports the Black Lives Matter movement and protests that are occurring across the country.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "WTVW",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_de181480c453c7da4811f9c47176172f&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T15:46:00.0000000Z",
+      "category": "Politics"
+    },
+    {
+      "name": "Wilmington City Council to consider Black Lives Matter art installation Tuesday",
+      "url": "https://www.wect.com/2020/08/14/wilmington-city-council-consider-black-lives-matter-art-installation-tuesday/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.DBFF63E246F4ACCE4A4D863B33982F12&pid=News",
+          "width": 700,
+          "height": 506
+        }
+      },
+      "description": "The Wilmington City Council will consider a request from a community group to place a Black Lives Matter art installation in public space during Tuesday’s meeting.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "WECT"
+        }
+      ],
+      "datePublished": "2020-08-14T23:21:00.0000000Z"
+    },
+    {
+      "name": "Nevada City police arrest man accused of attacking Black Lives Matter protesters",
+      "url": "https://www.abc10.com/article/news/local/california/nevada-city-police-arrests-protester/103-8bd587d5-e020-4133-bb58-a51020458a7e",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.AF012641FABC220E54D245EA1718C3BB&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "James Steven Smith, with other alleged Back the Blue counter-protesters, confronted Black Lives Matter protesters during a weekend protest.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "KXTV",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_e8cbf12ce4d11de73a2011c93731b3d1&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T04:36:00.0000000Z",
+      "category": "US"
+    },
+    {
+      "name": "Metro East coach fired after calling Black Lives Matter 'criminals and terrorists'",
+      "url": "https://www.pantagraph.com/news/state-and-regional/metro-east-coach-fired-after-calling-black-lives-matter-criminals-and-terrorists/article_a63855ee-a8ff-58a6-a27b-a058d9dd9c78.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.93EEEA1631EB1A75149673463D301BFC&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Granite City School District 9 officials fired an assistant coach on the girls varsity girls basketball team for comments she made on her Facebook page about the Black Lives Matter",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Pantagraph",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_6044b3bbff0dfa2e5c4a48002107bb9c&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-15T04:05:00.0000000Z",
+      "video": {
+        "name": "Metro East coach fired after calling Black Lives Matter 'criminals and terrorists'",
+        "thumbnailUrl": "https://www.bing.com/th?id=ON.93EEEA1631EB1A75149673463D301BFC&pid=News",
+        "thumbnail": {
+          "width": 480,
+          "height": 270
+        }
+      },
+      "category": "Politics"
+    },
+    {
+      "name": "Hair stylist gives cuts under Williamsburg Bridge for Black Lives Matter donations",
+      "url": "http://bronx.news12.com/story/42500341/hair-stylist-gives-cuts-under-williamsburg-bridge-for-black-lives-matter-donations",
+      "description": "A hair stylist raising money for the Black Lives Matter movement isgiving haircuts under the Williamsburg Bridge. News 12’s Sabrina Franza caught up with Anthony Payne, who was cutting “clean dry hair in the open air.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "News 12 New Jersey",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_415cefd0ef57003fc5649acbe27a7023&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-16T02:36:00.0000000Z"
+    },
+    {
+      "name": "Black Lives Matter movement goes beyond one organization",
+      "url": "https://www.kcra.com/article/black-lives-matter-movement-goes-beyond-one-organization/33428247",
+      "description": "black lives. Matter goes beyond one grassroots organization. This is a movement that includes a variety of unique voices. It is a mistake toe lump, all demonstrators into neatly defined labels.",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/636aa1d6-6739-42c9-ba12-42dafa778d7b",
+          "name": "Movement"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "KCRA",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_5f9781ed62545997307541a70aba8b2e&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-27T11:49:00.0000000Z"
+    },
+    {
+      "name": "Black Lives Don’t Matter To #BlackLivesMatter",
+      "url": "https://townhall.com/columnists/derekhunter/2020/07/26/black-lives-dont-matter-to-blacklivesmatter-n2573114",
+      "description": "We need to stop pretending that the group “Black Lives Matter” gives a damn about the lives of black people, police brutality, or anything other than hammering huge corporate checks and ...",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Townhall",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_66b9783b5fd486c7641122c5eca4016d&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-26T00:00:00.0000000Z",
+      "category": "World"
+    },
+    {
+      "name": "No, Black Lives Matter is not a terrorist organization",
+      "url": "https://www.politifact.com/factchecks/2020/jul/30/facebook-posts/black-lives-matter-not-terrorist-organization/",
+      "description": "Black Lives Matter, a domestic organization, is not on it. There is no legal process for designating domestic groups as terrorist organizations. Black Lives Matter is not listed as a perpetrator ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/2bb07662-2b08-c146-55e6-e3d7f8582270",
+          "name": "BKSH & Associates Worldwide"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Politifact",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_fb4b7c3b2115e53609d0345567573abd&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-30T19:10:00.0000000Z"
+    },
+    {
+      "name": "When Black Lives Matter came to White, rural America",
+      "url": "https://www.washingtonpost.com/nation/2020/07/27/when-black-lives-matter-came-white-rural-america/?arc404=true",
+      "description": "She readjusted her grip on the megaphone she’d swathed in leopard-print tape, to match her boots and the “Black Lives Matter” logo on her T-shirt. She shook back her Afro and told herself ...",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Washington Post",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_04bc0c1c424cf64dec14a2982f0360ef&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-27T00:00:00.0000000Z"
+    },
+    {
+      "name": "Black Lives Matter's anti-police brutality crusade obscures violent, Marxist agenda",
+      "url": "https://www.washingtontimes.com/news/2020/jul/27/black-lives-matter-anti-police-brutality-crusade-o/",
+      "description": "Beyond Black Lives Matter’s drive to eliminate police brutality is a far more extensive leftist ideology that would upend American economic and social life, according to an examination of BLM ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/4a6ce500-ade0-10f4-2ba4-47c08fdc218c",
+          "name": "The Washington Times"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/e61b6b7c-a8ed-2e31-8ead-1e4c436de980",
+          "name": "Police brutality"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/cab03561-5259-48e4-933c-66c712d688e3",
+          "name": "Agenda"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Washington Times",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_104a9402f29a6a488f404306f122ddec&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-29T06:35:00.0000000Z"
+    },
+    {
+      "name": "Archbishop Lori: How church teaching can help explain why ‘Black Lives Matter’",
+      "url": "https://www.americamagazine.org/faith/2020/07/27/archbishop-lori-how-church-teaching-can-help-explain-why-black-lives-matter",
+      "description": "Three of the most prominent words in today’s world are: Black Lives Matter. These words are emblazoned on streets, on public buildings and storefronts, on social media, in the windows of homes ...",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "America Magazine",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_a6d4988c9d74d19d2a983bbcce411db2&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-27T00:00:00.0000000Z"
+    },
+    {
+      "name": "How One of America’s Whitest Cities Became the Center of B.L.M. Protests",
+      "url": "https://www.nytimes.com/2020/07/24/us/portland-oregon-protests-white-race.html",
+      "description": "In a state with a brutal racist history, the Black Lives Matter protests in Portland, Ore., have been overwhelmingly attended by white demonstrators. Protesters gathered to listen to Black Lives ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/5658ef8a-9267-4851-b335-72bc82329a4e",
+          "name": "Portland"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "New York Times",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_cc657c1af702fae867766bbf2aa25756&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-27T14:58:00.0000000Z"
+    },
+    {
+      "name": "Documenting John Lewis’s last public appearance",
+      "url": "https://www.washingtonpost.com/lifestyle/style/documenting-john-lewiss-last-public-appearance/2020/07/30/0b1d2d04-cab3-11ea-91f1-28aca4d833a0_story.html",
+      "description": "John Lewis’s last public appearance wasn’t supposed to be public. Those photographs of him overlooking the District’s Black Lives Matter Plaza, 57 years after he’d been the youngest ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/2bbbdf4c-0c82-445a-87c3-11a9d6ba77e2",
+          "name": "John Lewis"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/216726d1-8987-06d3-5eff-823da05c3d3c",
+          "name": "Washington, D.C."
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/af2766bd-5cd9-cb5d-0bdf-6e65c4aa7a01",
+          "name": "Lewis's"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Washington Post",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_04bc0c1c424cf64dec14a2982f0360ef&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-30T21:39:00.0000000Z",
+      "category": "US"
+    },
+    {
+      "name": "Black Lives Matter, But Do the Voices of Black Women? (Guest Column)",
+      "url": "https://www.hollywoodreporter.com/news/black-lives-matter-but-do-voices-black-women-guest-column-1304218",
+      "description": "The current narrative of Black Lives Matter focuses mainly on the killing of Black men and boys by white policemen and the like. This narrative almost forces Black women to be protective ...",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Hollywood Reporter"
+        }
+      ],
+      "datePublished": "2020-07-25T14:18:00.0000000Z"
+    },
+    {
+      "name": "Portland, America’s ‘whitest’ big city, is an unlikely hub of Black Lives Matter",
+      "url": "https://www.latimes.com/world-nation/story/2020-08-02/portland-americas-whitest-big-city-unlikely-hub-of-black-lives-matter",
+      "description": "“Black lives matter” has become a ubiquitous rallying cry in a city where only about 6% of the population is Black — while almost 10% is Latino and 8% is of Asian ancestry. The city of ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/5658ef8a-9267-4851-b335-72bc82329a4e",
+          "name": "Portland"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Los Angeles Times",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_f6ee0777fa236afab60d094d1018c0b6&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-02T11:30:00.0000000Z"
+    },
+    {
+      "name": "Black Lives Matter: 'Backlash has been divisive like Brexit'",
+      "url": "https://www.bbc.com/news/uk-wales-53503288",
+      "description": "For Natera Morris, 24, of Cardiff, the Black Lives Matter Movement has brought up racism she never knew existed. The death of American George Floyd in police custody has received global attention ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/d8c12054-a38a-14f5-8f22-49ff5614aeb5",
+          "name": "BBC News"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/8a945dc8-a720-84cc-b9b3-b880ab7bb688",
+          "name": "Black, Hawthorn & Co"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "BBC",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_13e55212707f2e343987e8af4351bac7&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-01T05:05:00.0000000Z"
+    },
+    {
+      "name": "From Bloody Sunday to Black Lives Matter, the role of the Black church is shifting",
+      "url": "https://www.politico.com/news/2020/07/30/the-role-of-the-black-church-389180",
+      "description": "The church’s role is now changing. Even as they inherit Lewis’ mantle, Black Lives Matter organizers say the Black church does not serve as the organizing hub, haven and heartbeat for their ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/d2e4bc6c-ba2d-4de9-a257-a850492fb73c",
+          "name": "The Black"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/675fdcb5-0077-b818-0d2a-4509a71669bf",
+          "name": "Role"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/07182109-18e6-0f9a-debb-c574ef9bd08e",
+          "name": "Politico"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Politico",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_40e264668889b16b5e1b346ab63eb667&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T01:02:00.0000000Z"
+    },
+    {
+      "name": "Black Lives Matter message to be erased, Tulsa officials say: 'There is just not an alternative'",
+      "url": "https://tulsaworld.com/news/local/government-and-politics/black-lives-matter-message-to-be-erased-tulsa-officials-say-there-is-just-not-an/article_0192523a-083d-5015-8758-6d0dd571d7c4.html",
+      "description": "The massive “Black Lives Matter” street sign painted in bright yellow letters on historic Greenwood Avenue is going away. And there will be no “Back the Blue” street sign, either.",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/b8f26db0-d3b7-4fb5-fbb0-9ea469754434",
+          "name": "Politics"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/bb514be9-f831-46c9-94b2-4110c823229a",
+          "name": "Tulsa"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Tulsa World",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_0cf508d937785e616ad4db78141e90f6&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-29T18:46:00.0000000Z"
+    },
+    {
+      "name": "Black Lives Matter and the Nuclear Family",
+      "url": "https://www.counterpunch.org/2020/07/29/black-lives-matter-and-the-nuclear-family/",
+      "description": "BLM website To discredit Black Lives Matter the right and center point to Marxism and cultural Marxism as signs of Black Lives Matter. While the founders of the movement admirably identify as ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/28c8b713-8de3-737f-0775-f9b2dfe66563",
+          "name": "CounterPunch"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/037d9e8a-7b82-a11f-5b45-063b94e03687",
+          "name": "4950th Test Group"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "CounterPunch",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_66f7befc678e67fc8f53e469ef2d5ebe&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-29T09:31:00.0000000Z",
+      "category": "Politics"
+    },
+    {
+      "name": "MLS 'Black Lives Matter' T-shirt: Philly Union Warren Creavalle's passion goes beyond design",
+      "url": "https://www.espn.com/soccer/philadelphia-union/story/4145685/mls-black-lives-matter-t-shirt-philly-union-warren-creavalle-passion-goes-beyond-design",
+      "description": "The black T-shirts with \"Black Lives Matter\" written in gold lettering across the front have been an unmissable feature in Orlando, with every team wearing them. MLS players and coaches have worn ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/1b4c5a83-7238-07e9-33bd-33c4c4884f49",
+          "name": "Warren Creavalle"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/79b4dd35-0b94-673e-6597-897009f16913",
+          "name": "Philadelphia Union"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/43f474f9-3eb5-181c-0871-5f2adb866859",
+          "name": "T-shirt"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "ESPN",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_dd1852d375bd061b06b0518f97b94187&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-28T19:45:00.0000000Z",
+      "category": "Sports"
+    },
+    {
+      "name": "Allen: Black Lives Matter is political — because Black Identity is too",
+      "url": "https://dailynorthwestern.com/2020/08/02/opinion/allen-black-lives-matter-is-political-because-black-identity-is-too/",
+      "description": "In the past few weeks — as my social media feeds have been flooded with social justice messages — I’ve seen some people claim that “Black lives matter” isn’t political because it’s ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/6f8cea22-2d3f-fc72-0460-9e3a39be49ca",
+          "name": "Kenny Allen"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/c7664a27-4cef-286b-5a16-a16df4e8d543",
+          "name": "Black"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/9ae50fbc-11d0-ebb6-c66c-e655e0fa8266",
+          "name": "Opinion"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Daily Northwestern",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_c3a85dc906a5cd21537c356e9dc3b30d&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-02T00:00:00.0000000Z"
+    },
+    {
+      "name": "Beyoncé’s Masterful ‘Black Is King’ Will Change How You See the World",
+      "url": "https://www.thedailybeast.com/beyonces-masterful-black-is-king-will-change-how-you-see-the-world",
+      "description": "Beyoncé’s visual album is undeniably resonant at a Black Lives Matter moment and ranks among her best work yet. Senior Entertainment Reporter There is not a single frame of Black Is King that ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/6e476fa2-b3a4-d70a-4b7c-8b26868eb992",
+          "name": "Beyoncé Knowles"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/ddb7c000-f710-87a0-dfc6-763c39ac30ee",
+          "name": "World"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/29eae73d-5607-061a-9f2f-5e2e700eae63",
+          "name": "Black"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Daily Beast",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_95e5fadf23da94920f027217bdedd0ed&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T20:48:00.0000000Z",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Black Lives Matter is \"spewing hatred for America\": A brief debate with Rudy Giuliani",
+      "url": "https://www.salon.com/2020/07/17/black-lives-matter-is-spewing-hatred-for-america-a-brief-debate-with-rudy-giuliani/",
+      "description": "Former Lifelock spokesperson Rudy Giuliani has in recent media appearances and self-produced videos fired off a number of incendiary accusations against the Black Lives Matter social justice ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/f400d981-c7f0-b111-ba10-c0b8181d7bd3",
+          "name": "Rudy Giuliani"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/29eae73d-5607-061a-9f2f-5e2e700eae63",
+          "name": "Black"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Salon",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_59fb84e3262648e803442d3917030601&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-01T14:26:00.0000000Z",
+      "category": "Politics"
+    },
+    {
+      "name": "How Black Lives Matter went from a hashtag to a global rallying cry",
+      "url": "https://kvia.com/news/us-world/2020/07/26/how-black-lives-matter-went-from-a-hashtag-to-a-global-rallying-cry/",
+      "description": "She wrote that she continued to be surprised “at how little Black lives matter.” “That’s really what Black Lives Matter was for me,” Garza told MSNBC. “And that’s why I said Black ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/a635a639-ba02-c549-55a3-f9834b7cecff",
+          "name": "KVIA-TV"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "KVIA",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_e9ea2aba665de5c9c5374f267f5ca2c0&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-26T18:04:00.0000000Z"
+    },
+    {
+      "name": "Why the Black Lives Matter movement should claim the 14th Amendment",
+      "url": "https://theundefeated.com/features/why-the-black-lives-matter-movement-should-claim-the-14th-amendment/",
+      "description": "Black Lives Matter — the chant that has drowned out all other sounds in this moment of racial reckoning — must transcend the language of morality and adopt the language of the U.S. Constitution.",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/df3a2ad3-7412-b12c-6d91-eb88e34c61b7",
+          "name": "Fourteenth Amendment to the United States Constitution"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Undefeated",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_ffd2c7aab372589387980d77e1f7fa70&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-30T18:42:00.0000000Z"
+    },
+    {
+      "name": "A Black Lives Matter mural is defaced with red, white and blue paint in Washington state",
+      "url": "https://www.cnn.com/2020/07/30/us/blm-mural-spokane-wa-trnd/index.html",
+      "description": "(CNN)A colorful Black Lives Matter mural was defaced this week, with vandals attempting to obscure \"Black\" with red, white and blue paint. The 140-foot mural is on the side of a building in ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/c4c637e5-f9cc-a3ed-3380-7152515e062e",
+          "name": "CNN"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "CNN",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_34c0b98797bce395c518158cf055747c&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T09:50:00.0000000Z"
+    },
+    {
+      "name": "How Black Lives Matter went from a hashtag to a global rallying cry",
+      "url": "https://www.gwinnettdailypost.com/news/world_nation/how-black-lives-matter-went-from-a-hashtag-to-a-global-rallying-cry/article_29aa99b0-1fb5-5e3e-b44b-51d37ab2e5fc.html",
+      "description": "She wrote that she continued to be surprised \"at how little Black lives matter.\" \"That's really what Black Lives Matter was for me,\" Garza told MSNBC. \"And that's why I said Black people ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/ddb7c000-f710-87a0-dfc6-763c39ac30ee",
+          "name": "World"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/ecd3b18e-efec-b8ba-049a-e66d5b632535",
+          "name": "Nation"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Gwinnett Daily Post"
+        }
+      ],
+      "datePublished": "2020-07-26T14:00:00.0000000Z",
+      "category": "US"
+    },
+    {
+      "name": "Black Lives Matter movement exists beyond the sign in your front lawn",
+      "url": "https://www.courant.com/opinion/letters/hc-le-letters-sun-0802-20200802-nxbbj5rbdjbqvpyahtbyggoywe-story.html",
+      "description": "When the last of the Black Lives Matter signs scattered across lawns are finally laid to rest, Americans should celebrate, for that day might actually merit a celebration. It might. But not yet.",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/3cc76214-8ab1-3ec6-9734-1515efa95cd4",
+          "name": "Black"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/6110fa2a-fbc7-64ee-c679-77e7ffbdf230",
+          "name": "Hartford Courant"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Hartford Courant",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_06206137acac347c5a55626f1ac4c1ca&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-08-02T06:00:00.0000000Z"
+    },
+    {
+      "name": "Black K-pop fans continue to face racism online",
+      "url": "https://www.theverge.com/2020/7/24/21335831/kpop-racism-fans-black-lives-matter-harassment",
+      "description": "As the Black Lives Matter movement took over the national conversation, K-pop fans have regularly been credited with large-scale protest actions. K-pop fans used fancams to flood and crash a ...",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Verge",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_eb7025b256a046a33c77675eb0c54b11&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-24T09:00:00.0000000Z",
+      "category": "Entertainment"
+    },
+    {
+      "name": "5 Ways in which NBA players have supported Black Lives Matter from Orlando",
+      "url": "https://www.sportskeeda.com/basketball/5-ways-nba-players-supported-black-lives-matter-orlando",
+      "description": "All fears of Black Lives Matter becoming an afterthought in the NBA bubble have been quashed. NBA players have worked actively to throw light on Black Lives Matter from the NBA bubble in Orlando.",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/8eea2eec-4a57-4f52-b19d-0a2cde213716",
+          "name": "Orlando"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Sportskeeda",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_31f8521de25f2b917b3e034d638dd562&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-28T00:17:00.0000000Z",
+      "category": "Sports"
+    },
+    {
+      "name": "A man held a Black Lives Matter sign in Harrison, Arkansas. He posted the racist responses to YouTube.",
+      "url": "https://www.usatoday.com/story/news/nation/2020/07/30/harrison-arkansas-man-holds-black-lives-matter-sign-viral-video/5550585002/",
+      "description": "The words on the sign? \"Black Lives Matter.\" Needless to say, it caused quite a stir. Bliss, a 31-year-old white man from Los Angeles, endured a barrage of hate speech during his project ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/bbcf9641-5251-2428-08f0-b0cacac51bb2",
+          "name": "Harrison"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/71fe1965-34ef-a008-228f-0636f591233e",
+          "name": "Viral video"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "USA Today",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_e1f4ddfe292e1858eda89344172946a9&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T00:59:00.0000000Z"
+    },
+    {
+      "name": "These TikTok Creators Say They’re Still Being Suppressed for Posting Black Lives Matter Content",
+      "url": "https://time.com/5863350/tiktok-black-creators/",
+      "description": "Videos being taken down, muted or hidden from followers: These are all issues that some TikTok creators say they’re facing for posting Black Lives Matter content. In the wake of releasing a ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/c8a37d4d-0cd9-b592-297c-6d7196caa267",
+          "name": "Content"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Time",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_f55c44e0a7d524a26ea2342e45f2f4a0&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-26T20:07:00.0000000Z",
+      "category": "ScienceAndTechnology"
+    },
+    {
+      "name": "20% of Black adults said they want companies to address racism internally",
+      "url": "https://morningconsult.com/2020/07/16/brands-are-getting-involved-in-the-black-lives-matter-movement-heres-how-black-consumers-want-to-see-them-participate/",
+      "description": "Over the weekend of June 5, as Black Lives Matter protests broke out across the country, social media feeds began filling with identical images: black boxes, white text and corporate logos.",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/636aa1d6-6739-42c9-ba12-42dafa778d7b",
+          "name": "Movement"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Morning Consult"
+        }
+      ],
+      "datePublished": "2020-07-31T20:44:00.0000000Z",
+      "category": "ScienceAndTechnology"
+    }
+  ]
+}
