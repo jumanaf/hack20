@@ -96,9 +96,13 @@ public class goodNewsAPI {
     }
 
     @GetMapping("/getallnth")
-    public ArrayList<Entry> getallnth(@RequestParam(value = "n" int n))
+    public ArrayList<JsonObject> getallnth(@RequestParam(value = "n" int n), @RequestParam(value = "number_posts") int number_posts)
     {
+        List<JsonObject> results = new ArrayList<>();
+        for(int x = 0; x < number_posts; x++){
+            results.add(allPostive.get(x+(n*number_posts)));
+        }
 
-
+        return results;
     }
 }
